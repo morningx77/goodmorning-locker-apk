@@ -1,6 +1,6 @@
 # 굿모닝 락커 관리 — 안드로이드 설치 파일
 
-- 최신 버전: **1.0 (2)**
+- 최신 버전: **1.0 (3)**
 - 받기: [locker.apk](https://github.com/morningx77/goodmorning-locker-apk/raw/main/locker.apk)
 
 ## 설치 (태블릿)
